@@ -1,0 +1,12 @@
+{
+  "name": "quoting_dojo",
+  "version": "0.0.0",
+  "description": "reproducing quoting dojo using ME(A)N instead of CodeIgniter",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mason Crane",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "~3.2.4"
+  }
+}
